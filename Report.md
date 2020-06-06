@@ -39,8 +39,7 @@ WEIGHT_DECAY = 0.0     # L2 weight decay
 
 ![](plot.png)
 ```
-Episode 61	Score: 37.58	Average Score: 30.01
-Environment solved in -39 episodes!	Average Score: 30.01
+Environment solved in 603 episodes!	Average Score: 0.51
 ```
 # Ideas for Future Work
 Verify how far we can get with the following alghoritms:
